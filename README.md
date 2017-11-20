@@ -10,7 +10,7 @@ Team Members : Shivani Hole
                Parimal Najan
                Eadhunath V (me)
                
-===================================================================================================================================               
+=================================================================================================================            
 
 Introduction
 
@@ -51,5 +51,9 @@ Initially you are required to Sign Up to be able to access all of its functional
 The database credentials : User     : root
                            Password : 123
                            DB Name  : Mini2
+                           
+
+NOTE
+I am currently working on improving this system with a better magagement of the databases, validity checking s and UI.
                            
                            
